@@ -21,10 +21,13 @@ async def on_ready():
 async def on_message(message):
     if message.content.startswith('-oracle'):
         cmd = message.content.split('-oracle')[1].split()
-        if cmd[0] == "info":
+        if cmd[0] == "matchup":
             if not cmd[1]:
                 await client.send_message(message.channel, "please provide localname")
             localname = cmd[1]
             await client.send_message(message.channel, str(hero.determineMatchUp(localname)))
+        elif cmd[0] == "bestwith":
+            localname = cmd[1]
+            await client.send_message(message.channel, str(hero.findBestWith(localname)))
 
 client.run(token)

@@ -1,5 +1,6 @@
 from opendota.connection import Connection
 import collections
+import json
 
 class Heroes:
     def __init__(self):
@@ -44,5 +45,25 @@ class Heroes:
             finalString = finalString + "   " + str(row[0]) + "|" + str(row[1]) + "\n"
 
         return finalString
+
+
+    def findBestWith(self, localname):
+        id = str(self.conn.localToId(localname))
+        myfile = open('miner/data.json', 'r')
+        rows = json.loads(myfile.read())
+        myfile.close()
+
+        winrate = rows[id]['win_ratio']
+        worksBestWith = rows[id]['best_with']
+
+        finalString = localname + " has a winrate of: " + winrate + "\n"
+        finalString = finalString + "works best with: \n"
+        for hero in worksBestWith:
+            name = self.conn.idToLocalName(hero['hero_id'])
+            ratio = hero['win_ratio']
+            finalString = finalString + "    " + name + ": " + str(ratio) + "\n"
+
+        return finalString
+
 
 

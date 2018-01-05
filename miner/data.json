@@ -1,0 +1,2302 @@
+{
+    "1": {
+        "win_ratio": "0.45",
+        "gamesPlayed": "160",
+        "id": "1",
+        "best_with": [
+            {
+                "hero_id": 14,
+                "win_ratio": 0.28
+            },
+            {
+                "hero_id": 74,
+                "win_ratio": 0.2545454545454545
+            },
+            {
+                "hero_id": 27,
+                "win_ratio": 0.20833333333333334
+            }
+        ],
+        "localName": "Anti-Mage"
+    },
+    "2": {
+        "win_ratio": "0.5",
+        "gamesPlayed": "132",
+        "id": "2",
+        "best_with": [
+            {
+                "hero_id": 14,
+                "win_ratio": 0.3333333333333333
+            },
+            {
+                "hero_id": 74,
+                "win_ratio": 0.2708333333333333
+            },
+            {
+                "hero_id": 11,
+                "win_ratio": 0.20408163265306123
+            }
+        ],
+        "localName": "Axe"
+    },
+    "3": {
+        "win_ratio": "0.5",
+        "gamesPlayed": "36",
+        "id": "3",
+        "best_with": [
+            {
+                "hero_id": 14,
+                "win_ratio": 0.2777777777777778
+            },
+            {
+                "hero_id": 11,
+                "win_ratio": 0.3076923076923077
+            },
+            {
+                "hero_id": 1,
+                "win_ratio": 0.375
+            }
+        ],
+        "localName": "Bane"
+    },
+    "4": {
+        "win_ratio": "0.5230769230769231",
+        "gamesPlayed": "65",
+        "id": "4",
+        "best_with": [
+            {
+                "hero_id": 14,
+                "win_ratio": 0.17142857142857143
+            },
+            {
+                "hero_id": 11,
+                "win_ratio": 0.21739130434782608
+            },
+            {
+                "hero_id": 22,
+                "win_ratio": 0.625
+            }
+        ],
+        "localName": "Bloodseeker"
+    },
+    "5": {
+        "win_ratio": "0.48507462686567165",
+        "gamesPlayed": "134",
+        "id": "5",
+        "best_with": [
+            {
+                "hero_id": 14,
+                "win_ratio": 0.2898550724637681
+            },
+            {
+                "hero_id": 8,
+                "win_ratio": 0.22857142857142856
+            },
+            {
+                "hero_id": 74,
+                "win_ratio": 0.1702127659574468
+            }
+        ],
+        "localName": "Crystal Maiden"
+    },
+    "6": {
+        "win_ratio": "0.5555555555555556",
+        "gamesPlayed": "63",
+        "id": "6",
+        "best_with": [
+            {
+                "hero_id": 14,
+                "win_ratio": 0.3611111111111111
+            },
+            {
+                "hero_id": 11,
+                "win_ratio": 0.21739130434782608
+            },
+            {
+                "hero_id": 21,
+                "win_ratio": 0.45454545454545453
+            }
+        ],
+        "localName": "Drow Ranger"
+    },
+    "7": {
+        "win_ratio": "0.427536231884058",
+        "gamesPlayed": "138",
+        "id": "7",
+        "best_with": [
+            {
+                "hero_id": 74,
+                "win_ratio": 0.3333333333333333
+            },
+            {
+                "hero_id": 14,
+                "win_ratio": 0.16883116883116883
+            },
+            {
+                "hero_id": 11,
+                "win_ratio": 0.23529411764705882
+            }
+        ],
+        "localName": "Earthshaker"
+    },
+    "8": {
+        "win_ratio": "0.5428571428571428",
+        "gamesPlayed": "280",
+        "id": "8",
+        "best_with": [
+            {
+                "hero_id": 14,
+                "win_ratio": 0.23529411764705882
+            },
+            {
+                "hero_id": 74,
+                "win_ratio": 0.38961038961038963
+            },
+            {
+                "hero_id": 11,
+                "win_ratio": 0.2523364485981308
+            }
+        ],
+        "localName": "Juggernaut"
+    },
+    "9": {
+        "win_ratio": "0.48314606741573035",
+        "gamesPlayed": "178",
+        "id": "9",
+        "best_with": [
+            {
+                "hero_id": 14,
+                "win_ratio": 0.17525773195876287
+            },
+            {
+                "hero_id": 74,
+                "win_ratio": 0.2727272727272727
+            },
+            {
+                "hero_id": 8,
+                "win_ratio": 0.3181818181818182
+            }
+        ],
+        "localName": "Mirana"
+    },
+    "10": {
+        "win_ratio": "0.6153846153846154",
+        "gamesPlayed": "26",
+        "id": "10",
+        "best_with": [
+            {
+                "hero_id": 14,
+                "win_ratio": 0.5625
+            },
+            {
+                "hero_id": 6,
+                "win_ratio": 1.0
+            },
+            {
+                "hero_id": 9,
+                "win_ratio": 0.5
+            }
+        ],
+        "localName": "Morphling"
+    },
+    "11": {
+        "win_ratio": "0.4625668449197861",
+        "gamesPlayed": "374",
+        "id": "11",
+        "best_with": [
+            {
+                "hero_id": 14,
+                "win_ratio": 0.2347417840375587
+            },
+            {
+                "hero_id": 8,
+                "win_ratio": 0.2523364485981308
+            },
+            {
+                "hero_id": 42,
+                "win_ratio": 0.28169014084507044
+            }
+        ],
+        "localName": "Shadow Fiend"
+    },
+    "12": {
+        "win_ratio": "0.5588235294117647",
+        "gamesPlayed": "68",
+        "id": "12",
+        "best_with": [
+            {
+                "hero_id": 14,
+                "win_ratio": 0.2903225806451613
+            },
+            {
+                "hero_id": 11,
+                "win_ratio": 0.27586206896551724
+            },
+            {
+                "hero_id": 74,
+                "win_ratio": 0.3125
+            }
+        ],
+        "localName": "Phantom Lancer"
+    },
+    "13": {
+        "win_ratio": "0.45454545454545453",
+        "gamesPlayed": "66",
+        "id": "13",
+        "best_with": [
+            {
+                "hero_id": 14,
+                "win_ratio": 0.30952380952380953
+            },
+            {
+                "hero_id": 5,
+                "win_ratio": 0.5
+            },
+            {
+                "hero_id": 8,
+                "win_ratio": 0.17391304347826086
+            }
+        ],
+        "localName": "Puck"
+    },
+    "14": {
+        "win_ratio": "0.5479930191972077",
+        "gamesPlayed": "573",
+        "id": "14",
+        "best_with": [
+            {
+                "hero_id": 11,
+                "win_ratio": 0.2347417840375587
+            },
+            {
+                "hero_id": 74,
+                "win_ratio": 0.28735632183908044
+            },
+            {
+                "hero_id": 35,
+                "win_ratio": 0.4074074074074074
+            }
+        ],
+        "localName": "Pudge"
+    },
+    "15": {
+        "win_ratio": "0.37037037037037035",
+        "gamesPlayed": "27",
+        "id": "15",
+        "best_with": [
+            {
+                "hero_id": 14,
+                "win_ratio": 0.26666666666666666
+            },
+            {
+                "hero_id": 8,
+                "win_ratio": 0.5
+            },
+            {
+                "hero_id": 21,
+                "win_ratio": 0.4
+            }
+        ],
+        "localName": "Razor"
+    },
+    "16": {
+        "win_ratio": "0.4942528735632184",
+        "gamesPlayed": "87",
+        "id": "16",
+        "best_with": [
+            {
+                "hero_id": 14,
+                "win_ratio": 0.28
+            },
+            {
+                "hero_id": 74,
+                "win_ratio": 0.4583333333333333
+            },
+            {
+                "hero_id": 42,
+                "win_ratio": 0.4375
+            }
+        ],
+        "localName": "Sand King"
+    },
+    "17": {
+        "win_ratio": "0.5041322314049587",
+        "gamesPlayed": "121",
+        "id": "17",
+        "best_with": [
+            {
+                "hero_id": 14,
+                "win_ratio": 0.2631578947368421
+            },
+            {
+                "hero_id": 8,
+                "win_ratio": 0.2222222222222222
+            },
+            {
+                "hero_id": 27,
+                "win_ratio": 0.24
+            }
+        ],
+        "localName": "Storm Spirit"
+    },
+    "18": {
+        "win_ratio": "0.5588235294117647",
+        "gamesPlayed": "102",
+        "id": "18",
+        "best_with": [
+            {
+                "hero_id": 14,
+                "win_ratio": 0.31666666666666665
+            },
+            {
+                "hero_id": 11,
+                "win_ratio": 0.24390243902439024
+            },
+            {
+                "hero_id": 27,
+                "win_ratio": 0.4
+            }
+        ],
+        "localName": "Sven"
+    },
+    "19": {
+        "win_ratio": "0.47368421052631576",
+        "gamesPlayed": "57",
+        "id": "19",
+        "best_with": [
+            {
+                "hero_id": 11,
+                "win_ratio": 0.3333333333333333
+            },
+            {
+                "hero_id": 14,
+                "win_ratio": 0.1875
+            },
+            {
+                "hero_id": 27,
+                "win_ratio": 0.45454545454545453
+            }
+        ],
+        "localName": "Tiny"
+    },
+    "20": {
+        "win_ratio": "0.6125",
+        "gamesPlayed": "80",
+        "id": "20",
+        "best_with": [
+            {
+                "hero_id": 14,
+                "win_ratio": 0.28205128205128205
+            },
+            {
+                "hero_id": 11,
+                "win_ratio": 0.25
+            },
+            {
+                "hero_id": 48,
+                "win_ratio": 0.4375
+            }
+        ],
+        "localName": "Vengeful Spirit"
+    },
+    "21": {
+        "win_ratio": "0.5520833333333334",
+        "gamesPlayed": "96",
+        "id": "21",
+        "best_with": [
+            {
+                "hero_id": 14,
+                "win_ratio": 0.19148936170212766
+            },
+            {
+                "hero_id": 11,
+                "win_ratio": 0.20588235294117646
+            },
+            {
+                "hero_id": 8,
+                "win_ratio": 0.2
+            }
+        ],
+        "localName": "Windranger"
+    },
+    "22": {
+        "win_ratio": "0.5615384615384615",
+        "gamesPlayed": "130",
+        "id": "22",
+        "best_with": [
+            {
+                "hero_id": 14,
+                "win_ratio": 0.23376623376623376
+            },
+            {
+                "hero_id": 8,
+                "win_ratio": 0.2564102564102564
+            },
+            {
+                "hero_id": 71,
+                "win_ratio": 0.5294117647058824
+            }
+        ],
+        "localName": "Zeus"
+    },
+    "23": {
+        "win_ratio": "0.3770491803278688",
+        "gamesPlayed": "122",
+        "id": "23",
+        "best_with": [
+            {
+                "hero_id": 14,
+                "win_ratio": 0.1917808219178082
+            },
+            {
+                "hero_id": 11,
+                "win_ratio": 0.20833333333333334
+            },
+            {
+                "hero_id": 35,
+                "win_ratio": 0.3333333333333333
+            }
+        ],
+        "localName": "Kunkka"
+    },
+    "25": {
+        "win_ratio": "0.24242424242424243",
+        "gamesPlayed": "33",
+        "id": "25",
+        "best_with": [
+            {
+                "hero_id": 2,
+                "win_ratio": 0.5
+            },
+            {
+                "hero_id": 11,
+                "win_ratio": 0.18181818181818182
+            },
+            {
+                "hero_id": 14,
+                "win_ratio": 0.08333333333333333
+            }
+        ],
+        "localName": "Lina"
+    },
+    "26": {
+        "win_ratio": "0.4689655172413793",
+        "gamesPlayed": "145",
+        "id": "26",
+        "best_with": [
+            {
+                "hero_id": 14,
+                "win_ratio": 0.189873417721519
+            },
+            {
+                "hero_id": 8,
+                "win_ratio": 0.358974358974359
+            },
+            {
+                "hero_id": 42,
+                "win_ratio": 0.41379310344827586
+            }
+        ],
+        "localName": "Lion"
+    },
+    "27": {
+        "win_ratio": "0.5572139303482587",
+        "gamesPlayed": "201",
+        "id": "27",
+        "best_with": [
+            {
+                "hero_id": 14,
+                "win_ratio": 0.3173076923076923
+            },
+            {
+                "hero_id": 11,
+                "win_ratio": 0.24050632911392406
+            },
+            {
+                "hero_id": 74,
+                "win_ratio": 0.2786885245901639
+            }
+        ],
+        "localName": "Shadow Shaman"
+    },
+    "28": {
+        "win_ratio": "0.5147058823529411",
+        "gamesPlayed": "68",
+        "id": "28",
+        "best_with": [
+            {
+                "hero_id": 44,
+                "win_ratio": 0.4117647058823529
+            },
+            {
+                "hero_id": 8,
+                "win_ratio": 0.375
+            },
+            {
+                "hero_id": 14,
+                "win_ratio": 0.2222222222222222
+            }
+        ],
+        "localName": "Slardar"
+    },
+    "29": {
+        "win_ratio": "0.5728155339805825",
+        "gamesPlayed": "103",
+        "id": "29",
+        "best_with": [
+            {
+                "hero_id": 14,
+                "win_ratio": 0.33962264150943394
+            },
+            {
+                "hero_id": 8,
+                "win_ratio": 0.4375
+            },
+            {
+                "hero_id": 11,
+                "win_ratio": 0.2564102564102564
+            }
+        ],
+        "localName": "Tidehunter"
+    },
+    "30": {
+        "win_ratio": "0.5648148148148148",
+        "gamesPlayed": "108",
+        "id": "30",
+        "best_with": [
+            {
+                "hero_id": 42,
+                "win_ratio": 0.4074074074074074
+            },
+            {
+                "hero_id": 8,
+                "win_ratio": 0.37037037037037035
+            },
+            {
+                "hero_id": 11,
+                "win_ratio": 0.24390243902439024
+            }
+        ],
+        "localName": "Witch Doctor"
+    },
+    "31": {
+        "win_ratio": "0.449438202247191",
+        "gamesPlayed": "89",
+        "id": "31",
+        "best_with": [
+            {
+                "hero_id": 14,
+                "win_ratio": 0.22916666666666666
+            },
+            {
+                "hero_id": 11,
+                "win_ratio": 0.2413793103448276
+            },
+            {
+                "hero_id": 35,
+                "win_ratio": 0.3157894736842105
+            }
+        ],
+        "localName": "Lich"
+    },
+    "32": {
+        "win_ratio": "0.5151515151515151",
+        "gamesPlayed": "66",
+        "id": "32",
+        "best_with": [
+            {
+                "hero_id": 8,
+                "win_ratio": 0.375
+            },
+            {
+                "hero_id": 74,
+                "win_ratio": 0.28
+            },
+            {
+                "hero_id": 11,
+                "win_ratio": 0.21428571428571427
+            }
+        ],
+        "localName": "Riki"
+    },
+    "33": {
+        "win_ratio": "0.5476190476190477",
+        "gamesPlayed": "42",
+        "id": "33",
+        "best_with": [
+            {
+                "hero_id": 14,
+                "win_ratio": 0.2962962962962963
+            },
+            {
+                "hero_id": 8,
+                "win_ratio": 0.35294117647058826
+            },
+            {
+                "hero_id": 11,
+                "win_ratio": 0.5454545454545454
+            }
+        ],
+        "localName": "Enigma"
+    },
+    "34": {
+        "win_ratio": "0.45",
+        "gamesPlayed": "160",
+        "id": "34",
+        "best_with": [
+            {
+                "hero_id": 14,
+                "win_ratio": 0.29213483146067415
+            },
+            {
+                "hero_id": 27,
+                "win_ratio": 0.40625
+            },
+            {
+                "hero_id": 8,
+                "win_ratio": 0.19230769230769232
+            }
+        ],
+        "localName": "Tinker"
+    },
+    "35": {
+        "win_ratio": "0.5454545454545454",
+        "gamesPlayed": "187",
+        "id": "35",
+        "best_with": [
+            {
+                "hero_id": 14,
+                "win_ratio": 0.4074074074074074
+            },
+            {
+                "hero_id": 7,
+                "win_ratio": 0.3
+            },
+            {
+                "hero_id": 42,
+                "win_ratio": 0.3103448275862069
+            }
+        ],
+        "localName": "Sniper"
+    },
+    "36": {
+        "win_ratio": "0.5074626865671642",
+        "gamesPlayed": "67",
+        "id": "36",
+        "best_with": [
+            {
+                "hero_id": 8,
+                "win_ratio": 0.36363636363636365
+            },
+            {
+                "hero_id": 14,
+                "win_ratio": 0.19047619047619047
+            },
+            {
+                "hero_id": 9,
+                "win_ratio": 0.5384615384615384
+            }
+        ],
+        "localName": "Necrophos"
+    },
+    "37": {
+        "win_ratio": "0.45454545454545453",
+        "gamesPlayed": "33",
+        "id": "37",
+        "best_with": [
+            {
+                "hero_id": 8,
+                "win_ratio": 0.5
+            },
+            {
+                "hero_id": 74,
+                "win_ratio": 0.3076923076923077
+            },
+            {
+                "hero_id": 11,
+                "win_ratio": 0.1875
+            }
+        ],
+        "localName": "Warlock"
+    },
+    "38": {
+        "win_ratio": "0.3076923076923077",
+        "gamesPlayed": "13",
+        "id": "38",
+        "best_with": [
+            {
+                "hero_id": 8,
+                "win_ratio": 0.4
+            },
+            {
+                "hero_id": 41,
+                "win_ratio": 0.4
+            },
+            {
+                "hero_id": 11,
+                "win_ratio": 0.5
+            }
+        ],
+        "localName": "Beastmaster"
+    },
+    "39": {
+        "win_ratio": "0.5543478260869565",
+        "gamesPlayed": "92",
+        "id": "39",
+        "best_with": [
+            {
+                "hero_id": 14,
+                "win_ratio": 0.2711864406779661
+            },
+            {
+                "hero_id": 42,
+                "win_ratio": 0.47619047619047616
+            },
+            {
+                "hero_id": 86,
+                "win_ratio": 0.45
+            }
+        ],
+        "localName": "Queen of Pain"
+    },
+    "40": {
+        "win_ratio": "0.47115384615384615",
+        "gamesPlayed": "104",
+        "id": "40",
+        "best_with": [
+            {
+                "hero_id": 14,
+                "win_ratio": 0.21311475409836064
+            },
+            {
+                "hero_id": 41,
+                "win_ratio": 0.5294117647058824
+            },
+            {
+                "hero_id": 74,
+                "win_ratio": 0.25
+            }
+        ],
+        "localName": "Venomancer"
+    },
+    "41": {
+        "win_ratio": "0.4879518072289157",
+        "gamesPlayed": "166",
+        "id": "41",
+        "best_with": [
+            {
+                "hero_id": 14,
+                "win_ratio": 0.2708333333333333
+            },
+            {
+                "hero_id": 74,
+                "win_ratio": 0.38333333333333336
+            },
+            {
+                "hero_id": 11,
+                "win_ratio": 0.25925925925925924
+            }
+        ],
+        "localName": "Faceless Void"
+    },
+    "42": {
+        "win_ratio": "0.5544554455445545",
+        "gamesPlayed": "202",
+        "id": "42",
+        "best_with": [
+            {
+                "hero_id": 14,
+                "win_ratio": 0.27350427350427353
+            },
+            {
+                "hero_id": 11,
+                "win_ratio": 0.28169014084507044
+            },
+            {
+                "hero_id": 74,
+                "win_ratio": 0.2835820895522388
+            }
+        ],
+        "localName": "Wraith King"
+    },
+    "43": {
+        "win_ratio": "0.45454545454545453",
+        "gamesPlayed": "22",
+        "id": "43",
+        "best_with": [
+            {
+                "hero_id": 14,
+                "win_ratio": 0.3125
+            },
+            {
+                "hero_id": 74,
+                "win_ratio": 0.3333333333333333
+            },
+            {
+                "hero_id": 75,
+                "win_ratio": 0.6666666666666666
+            }
+        ],
+        "localName": "Death Prophet"
+    },
+    "44": {
+        "win_ratio": "0.49044585987261147",
+        "gamesPlayed": "157",
+        "id": "44",
+        "best_with": [
+            {
+                "hero_id": 14,
+                "win_ratio": 0.27956989247311825
+            },
+            {
+                "hero_id": 11,
+                "win_ratio": 0.2222222222222222
+            },
+            {
+                "hero_id": 26,
+                "win_ratio": 0.30303030303030304
+            }
+        ],
+        "localName": "Phantom Assassin"
+    },
+    "45": {
+        "win_ratio": "0.4722222222222222",
+        "gamesPlayed": "36",
+        "id": "45",
+        "best_with": [
+            {
+                "hero_id": 14,
+                "win_ratio": 0.3333333333333333
+            },
+            {
+                "hero_id": 8,
+                "win_ratio": 0.3333333333333333
+            },
+            {
+                "hero_id": 48,
+                "win_ratio": 0.5
+            }
+        ],
+        "localName": "Pugna"
+    },
+    "46": {
+        "win_ratio": "0.4375",
+        "gamesPlayed": "48",
+        "id": "46",
+        "best_with": [
+            {
+                "hero_id": 14,
+                "win_ratio": 0.16129032258064516
+            },
+            {
+                "hero_id": 6,
+                "win_ratio": 0.75
+            },
+            {
+                "hero_id": 42,
+                "win_ratio": 0.3333333333333333
+            }
+        ],
+        "localName": "Templar Assassin"
+    },
+    "47": {
+        "win_ratio": "0.5",
+        "gamesPlayed": "58",
+        "id": "47",
+        "best_with": [
+            {
+                "hero_id": 14,
+                "win_ratio": 0.22857142857142856
+            },
+            {
+                "hero_id": 8,
+                "win_ratio": 0.3333333333333333
+            },
+            {
+                "hero_id": 40,
+                "win_ratio": 0.45454545454545453
+            }
+        ],
+        "localName": "Viper"
+    },
+    "48": {
+        "win_ratio": "0.5714285714285714",
+        "gamesPlayed": "140",
+        "id": "48",
+        "best_with": [
+            {
+                "hero_id": 14,
+                "win_ratio": 0.25
+            },
+            {
+                "hero_id": 11,
+                "win_ratio": 0.2641509433962264
+            },
+            {
+                "hero_id": 27,
+                "win_ratio": 0.34375
+            }
+        ],
+        "localName": "Luna"
+    },
+    "49": {
+        "win_ratio": "0.6666666666666666",
+        "gamesPlayed": "57",
+        "id": "49",
+        "best_with": [
+            {
+                "hero_id": 14,
+                "win_ratio": 0.34615384615384615
+            },
+            {
+                "hero_id": 42,
+                "win_ratio": 0.6153846153846154
+            },
+            {
+                "hero_id": 104,
+                "win_ratio": 0.5
+            }
+        ],
+        "localName": "Dragon Knight"
+    },
+    "50": {
+        "win_ratio": "0.5576923076923077",
+        "gamesPlayed": "52",
+        "id": "50",
+        "best_with": [
+            {
+                "hero_id": 14,
+                "win_ratio": 0.3333333333333333
+            },
+            {
+                "hero_id": 35,
+                "win_ratio": 0.4166666666666667
+            },
+            {
+                "hero_id": 34,
+                "win_ratio": 0.3333333333333333
+            }
+        ],
+        "localName": "Dazzle"
+    },
+    "51": {
+        "win_ratio": "0.5353535353535354",
+        "gamesPlayed": "99",
+        "id": "51",
+        "best_with": [
+            {
+                "hero_id": 11,
+                "win_ratio": 0.2222222222222222
+            },
+            {
+                "hero_id": 8,
+                "win_ratio": 0.3333333333333333
+            },
+            {
+                "hero_id": 76,
+                "win_ratio": 0.5294117647058824
+            }
+        ],
+        "localName": "Clockwerk"
+    },
+    "52": {
+        "win_ratio": "0.75",
+        "gamesPlayed": "4",
+        "id": "52",
+        "best_with": [
+            {
+                "hero_id": 93,
+                "win_ratio": 0.6666666666666666
+            },
+            {
+                "hero_id": 32,
+                "win_ratio": 1.0
+            },
+            {
+                "hero_id": 35,
+                "win_ratio": 0.5
+            }
+        ],
+        "localName": "Leshrac"
+    },
+    "53": {
+        "win_ratio": "0.3142857142857143",
+        "gamesPlayed": "35",
+        "id": "53",
+        "best_with": [
+            {
+                "hero_id": 14,
+                "win_ratio": 0.1875
+            },
+            {
+                "hero_id": 8,
+                "win_ratio": 0.13333333333333333
+            },
+            {
+                "hero_id": 9,
+                "win_ratio": 0.2222222222222222
+            }
+        ],
+        "localName": "Nature's Prophet"
+    },
+    "54": {
+        "win_ratio": "0.38596491228070173",
+        "gamesPlayed": "57",
+        "id": "54",
+        "best_with": [
+            {
+                "hero_id": 14,
+                "win_ratio": 0.26666666666666666
+            },
+            {
+                "hero_id": 17,
+                "win_ratio": 0.4444444444444444
+            },
+            {
+                "hero_id": 11,
+                "win_ratio": 0.13043478260869565
+            }
+        ],
+        "localName": "Lifestealer"
+    },
+    "55": {
+        "win_ratio": "0.38095238095238093",
+        "gamesPlayed": "21",
+        "id": "55",
+        "best_with": [
+            {
+                "hero_id": 74,
+                "win_ratio": 0.42857142857142855
+            },
+            {
+                "hero_id": 14,
+                "win_ratio": 0.25
+            },
+            {
+                "hero_id": 8,
+                "win_ratio": 0.5
+            }
+        ],
+        "localName": "Dark Seer"
+    },
+    "56": {
+        "win_ratio": "0.5353535353535354",
+        "gamesPlayed": "99",
+        "id": "56",
+        "best_with": [
+            {
+                "hero_id": 14,
+                "win_ratio": 0.3333333333333333
+            },
+            {
+                "hero_id": 74,
+                "win_ratio": 0.27586206896551724
+            },
+            {
+                "hero_id": 27,
+                "win_ratio": 0.3888888888888889
+            }
+        ],
+        "localName": "Clinkz"
+    },
+    "57": {
+        "win_ratio": "0.4",
+        "gamesPlayed": "55",
+        "id": "57",
+        "best_with": [
+            {
+                "hero_id": 14,
+                "win_ratio": 0.21875
+            },
+            {
+                "hero_id": 8,
+                "win_ratio": 0.23809523809523808
+            },
+            {
+                "hero_id": 74,
+                "win_ratio": 0.3333333333333333
+            }
+        ],
+        "localName": "Omniknight"
+    },
+    "58": {
+        "win_ratio": "0.5483870967741935",
+        "gamesPlayed": "31",
+        "id": "58",
+        "best_with": [
+            {
+                "hero_id": 8,
+                "win_ratio": 0.4444444444444444
+            },
+            {
+                "hero_id": 74,
+                "win_ratio": 0.4
+            },
+            {
+                "hero_id": 11,
+                "win_ratio": 0.3
+            }
+        ],
+        "localName": "Enchantress"
+    },
+    "59": {
+        "win_ratio": "0.5510204081632653",
+        "gamesPlayed": "49",
+        "id": "59",
+        "best_with": [
+            {
+                "hero_id": 14,
+                "win_ratio": 0.3181818181818182
+            },
+            {
+                "hero_id": 11,
+                "win_ratio": 0.3157894736842105
+            },
+            {
+                "hero_id": 9,
+                "win_ratio": 0.4444444444444444
+            }
+        ],
+        "localName": "Huskar"
+    },
+    "60": {
+        "win_ratio": "0.44642857142857145",
+        "gamesPlayed": "56",
+        "id": "60",
+        "best_with": [
+            {
+                "hero_id": 11,
+                "win_ratio": 0.2727272727272727
+            },
+            {
+                "hero_id": 42,
+                "win_ratio": 0.5
+            },
+            {
+                "hero_id": 4,
+                "win_ratio": 0.6
+            }
+        ],
+        "localName": "Night Stalker"
+    },
+    "61": {
+        "win_ratio": "0.5",
+        "gamesPlayed": "18",
+        "id": "61",
+        "best_with": [
+            {
+                "hero_id": 27,
+                "win_ratio": 1.0
+            },
+            {
+                "hero_id": 14,
+                "win_ratio": 0.2727272727272727
+            },
+            {
+                "hero_id": 74,
+                "win_ratio": 0.3333333333333333
+            }
+        ],
+        "localName": "Broodmother"
+    },
+    "62": {
+        "win_ratio": "0.5125",
+        "gamesPlayed": "80",
+        "id": "62",
+        "best_with": [
+            {
+                "hero_id": 14,
+                "win_ratio": 0.23529411764705882
+            },
+            {
+                "hero_id": 11,
+                "win_ratio": 0.21428571428571427
+            },
+            {
+                "hero_id": 41,
+                "win_ratio": 0.4
+            }
+        ],
+        "localName": "Bounty Hunter"
+    },
+    "63": {
+        "win_ratio": "0.45652173913043476",
+        "gamesPlayed": "92",
+        "id": "63",
+        "best_with": [
+            {
+                "hero_id": 14,
+                "win_ratio": 0.24528301886792453
+            },
+            {
+                "hero_id": 11,
+                "win_ratio": 0.1875
+            },
+            {
+                "hero_id": 9,
+                "win_ratio": 0.22727272727272727
+            }
+        ],
+        "localName": "Weaver"
+    },
+    "64": {
+        "win_ratio": "0.5054945054945055",
+        "gamesPlayed": "91",
+        "id": "64",
+        "best_with": [
+            {
+                "hero_id": 11,
+                "win_ratio": 0.2727272727272727
+            },
+            {
+                "hero_id": 34,
+                "win_ratio": 0.3888888888888889
+            },
+            {
+                "hero_id": 99,
+                "win_ratio": 0.4666666666666667
+            }
+        ],
+        "localName": "Jakiro"
+    },
+    "65": {
+        "win_ratio": "0.5714285714285714",
+        "gamesPlayed": "28",
+        "id": "65",
+        "best_with": [
+            {
+                "hero_id": 17,
+                "win_ratio": 0.5
+            },
+            {
+                "hero_id": 41,
+                "win_ratio": 0.6666666666666666
+            },
+            {
+                "hero_id": 119,
+                "win_ratio": 1.0
+            }
+        ],
+        "localName": "Batrider"
+    },
+    "66": {
+        "win_ratio": "0.2857142857142857",
+        "gamesPlayed": "42",
+        "id": "66",
+        "best_with": [
+            {
+                "hero_id": 9,
+                "win_ratio": 0.4
+            },
+            {
+                "hero_id": 14,
+                "win_ratio": 0.13043478260869565
+            },
+            {
+                "hero_id": 41,
+                "win_ratio": 0.42857142857142855
+            }
+        ],
+        "localName": "Chen"
+    },
+    "67": {
+        "win_ratio": "0.4444444444444444",
+        "gamesPlayed": "81",
+        "id": "67",
+        "best_with": [
+            {
+                "hero_id": 14,
+                "win_ratio": 0.28205128205128205
+            },
+            {
+                "hero_id": 22,
+                "win_ratio": 0.5
+            },
+            {
+                "hero_id": 11,
+                "win_ratio": 0.20689655172413793
+            }
+        ],
+        "localName": "Spectre"
+    },
+    "68": {
+        "win_ratio": "0.5",
+        "gamesPlayed": "62",
+        "id": "68",
+        "best_with": [
+            {
+                "hero_id": 14,
+                "win_ratio": 0.24242424242424243
+            },
+            {
+                "hero_id": 11,
+                "win_ratio": 0.30434782608695654
+            },
+            {
+                "hero_id": 8,
+                "win_ratio": 0.3333333333333333
+            }
+        ],
+        "localName": "Ancient Apparition"
+    },
+    "69": {
+        "win_ratio": "0.5",
+        "gamesPlayed": "94",
+        "id": "69",
+        "best_with": [
+            {
+                "hero_id": 14,
+                "win_ratio": 0.16981132075471697
+            },
+            {
+                "hero_id": 8,
+                "win_ratio": 0.3333333333333333
+            },
+            {
+                "hero_id": 1,
+                "win_ratio": 0.3333333333333333
+            }
+        ],
+        "localName": "Doom"
+    },
+    "70": {
+        "win_ratio": "0.5531914893617021",
+        "gamesPlayed": "47",
+        "id": "70",
+        "best_with": [
+            {
+                "hero_id": 14,
+                "win_ratio": 0.25806451612903225
+            },
+            {
+                "hero_id": 27,
+                "win_ratio": 0.3157894736842105
+            },
+            {
+                "hero_id": 34,
+                "win_ratio": 0.625
+            }
+        ],
+        "localName": "Ursa"
+    },
+    "71": {
+        "win_ratio": "0.4953271028037383",
+        "gamesPlayed": "107",
+        "id": "71",
+        "best_with": [
+            {
+                "hero_id": 8,
+                "win_ratio": 0.375
+            },
+            {
+                "hero_id": 11,
+                "win_ratio": 0.3055555555555556
+            },
+            {
+                "hero_id": 22,
+                "win_ratio": 0.5294117647058824
+            }
+        ],
+        "localName": "Spirit Breaker"
+    },
+    "72": {
+        "win_ratio": "0.4418604651162791",
+        "gamesPlayed": "43",
+        "id": "72",
+        "best_with": [
+            {
+                "hero_id": 14,
+                "win_ratio": 0.2692307692307692
+            },
+            {
+                "hero_id": 51,
+                "win_ratio": 0.6666666666666666
+            },
+            {
+                "hero_id": 11,
+                "win_ratio": 0.1875
+            }
+        ],
+        "localName": "Gyrocopter"
+    },
+    "73": {
+        "win_ratio": "0.3522727272727273",
+        "gamesPlayed": "88",
+        "id": "73",
+        "best_with": [
+            {
+                "hero_id": 14,
+                "win_ratio": 0.1320754716981132
+            },
+            {
+                "hero_id": 7,
+                "win_ratio": 0.4
+            },
+            {
+                "hero_id": 11,
+                "win_ratio": 0.13333333333333333
+            }
+        ],
+        "localName": "Alchemist"
+    },
+    "74": {
+        "win_ratio": "0.517799352750809",
+        "gamesPlayed": "309",
+        "id": "74",
+        "best_with": [
+            {
+                "hero_id": 14,
+                "win_ratio": 0.28735632183908044
+            },
+            {
+                "hero_id": 8,
+                "win_ratio": 0.38961038961038963
+            },
+            {
+                "hero_id": 41,
+                "win_ratio": 0.38333333333333336
+            }
+        ],
+        "localName": "Invoker"
+    },
+    "75": {
+        "win_ratio": "0.56",
+        "gamesPlayed": "75",
+        "id": "75",
+        "best_with": [
+            {
+                "hero_id": 14,
+                "win_ratio": 0.24390243902439024
+            },
+            {
+                "hero_id": 8,
+                "win_ratio": 0.45
+            },
+            {
+                "hero_id": 11,
+                "win_ratio": 0.23076923076923078
+            }
+        ],
+        "localName": "Silencer"
+    },
+    "76": {
+        "win_ratio": "0.5042016806722689",
+        "gamesPlayed": "119",
+        "id": "76",
+        "best_with": [
+            {
+                "hero_id": 14,
+                "win_ratio": 0.2608695652173913
+            },
+            {
+                "hero_id": 42,
+                "win_ratio": 0.37037037037037035
+            },
+            {
+                "hero_id": 51,
+                "win_ratio": 0.5294117647058824
+            }
+        ],
+        "localName": "Outworld Devourer"
+    },
+    "77": {
+        "win_ratio": "0.45",
+        "gamesPlayed": "20",
+        "id": "77",
+        "best_with": [
+            {
+                "hero_id": 11,
+                "win_ratio": 0.45454545454545453
+            },
+            {
+                "hero_id": 87,
+                "win_ratio": 0.75
+            },
+            {
+                "hero_id": 98,
+                "win_ratio": 0.4
+            }
+        ],
+        "localName": "Lycan"
+    },
+    "78": {
+        "win_ratio": "0.5",
+        "gamesPlayed": "38",
+        "id": "78",
+        "best_with": [
+            {
+                "hero_id": 14,
+                "win_ratio": 0.2727272727272727
+            },
+            {
+                "hero_id": 35,
+                "win_ratio": 0.5714285714285714
+            },
+            {
+                "hero_id": 44,
+                "win_ratio": 0.6666666666666666
+            }
+        ],
+        "localName": "Brewmaster"
+    },
+    "79": {
+        "win_ratio": "0.4186046511627907",
+        "gamesPlayed": "43",
+        "id": "79",
+        "best_with": [
+            {
+                "hero_id": 48,
+                "win_ratio": 0.2631578947368421
+            },
+            {
+                "hero_id": 9,
+                "win_ratio": 0.2727272727272727
+            },
+            {
+                "hero_id": 14,
+                "win_ratio": 0.14285714285714285
+            }
+        ],
+        "localName": "Shadow Demon"
+    },
+    "80": {
+        "win_ratio": "0.1111111111111111",
+        "gamesPlayed": "9",
+        "id": "80",
+        "best_with": [
+            {
+                "hero_id": 88,
+                "win_ratio": 1.0
+            },
+            {
+                "hero_id": 34,
+                "win_ratio": 0.3333333333333333
+            },
+            {
+                "hero_id": 100,
+                "win_ratio": 1.0
+            }
+        ],
+        "localName": "Lone Druid"
+    },
+    "81": {
+        "win_ratio": "0.620253164556962",
+        "gamesPlayed": "79",
+        "id": "81",
+        "best_with": [
+            {
+                "hero_id": 14,
+                "win_ratio": 0.2549019607843137
+            },
+            {
+                "hero_id": 74,
+                "win_ratio": 0.4782608695652174
+            },
+            {
+                "hero_id": 86,
+                "win_ratio": 0.5263157894736842
+            }
+        ],
+        "localName": "Chaos Knight"
+    },
+    "82": {
+        "win_ratio": "0.5454545454545454",
+        "gamesPlayed": "22",
+        "id": "82",
+        "best_with": [
+            {
+                "hero_id": 86,
+                "win_ratio": 0.5714285714285714
+            },
+            {
+                "hero_id": 7,
+                "win_ratio": 0.42857142857142855
+            },
+            {
+                "hero_id": 11,
+                "win_ratio": 0.42857142857142855
+            }
+        ],
+        "localName": "Meepo"
+    },
+    "83": {
+        "win_ratio": "0.4",
+        "gamesPlayed": "40",
+        "id": "83",
+        "best_with": [
+            {
+                "hero_id": 48,
+                "win_ratio": 0.4444444444444444
+            },
+            {
+                "hero_id": 11,
+                "win_ratio": 0.17647058823529413
+            },
+            {
+                "hero_id": 30,
+                "win_ratio": 0.6
+            }
+        ],
+        "localName": "Treant Protector"
+    },
+    "84": {
+        "win_ratio": "0.5491803278688525",
+        "gamesPlayed": "122",
+        "id": "84",
+        "best_with": [
+            {
+                "hero_id": 11,
+                "win_ratio": 0.3617021276595745
+            },
+            {
+                "hero_id": 14,
+                "win_ratio": 0.27586206896551724
+            },
+            {
+                "hero_id": 8,
+                "win_ratio": 0.325
+            }
+        ],
+        "localName": "Ogre Magi"
+    },
+    "85": {
+        "win_ratio": "0.5053763440860215",
+        "gamesPlayed": "93",
+        "id": "85",
+        "best_with": [
+            {
+                "hero_id": 14,
+                "win_ratio": 0.26
+            },
+            {
+                "hero_id": 11,
+                "win_ratio": 0.24390243902439024
+            },
+            {
+                "hero_id": 8,
+                "win_ratio": 0.25
+            }
+        ],
+        "localName": "Undying"
+    },
+    "86": {
+        "win_ratio": "0.5058139534883721",
+        "gamesPlayed": "172",
+        "id": "86",
+        "best_with": [
+            {
+                "hero_id": 14,
+                "win_ratio": 0.17582417582417584
+            },
+            {
+                "hero_id": 74,
+                "win_ratio": 0.3125
+            },
+            {
+                "hero_id": 8,
+                "win_ratio": 0.24
+            }
+        ],
+        "localName": "Rubick"
+    },
+    "87": {
+        "win_ratio": "0.39622641509433965",
+        "gamesPlayed": "106",
+        "id": "87",
+        "best_with": [
+            {
+                "hero_id": 14,
+                "win_ratio": 0.2830188679245283
+            },
+            {
+                "hero_id": 11,
+                "win_ratio": 0.2558139534883721
+            },
+            {
+                "hero_id": 41,
+                "win_ratio": 0.2727272727272727
+            }
+        ],
+        "localName": "Disruptor"
+    },
+    "88": {
+        "win_ratio": "0.5428571428571428",
+        "gamesPlayed": "105",
+        "id": "88",
+        "best_with": [
+            {
+                "hero_id": 8,
+                "win_ratio": 0.3939393939393939
+            },
+            {
+                "hero_id": 11,
+                "win_ratio": 0.34285714285714286
+            },
+            {
+                "hero_id": 14,
+                "win_ratio": 0.21052631578947367
+            }
+        ],
+        "localName": "Nyx Assassin"
+    },
+    "89": {
+        "win_ratio": "0.5",
+        "gamesPlayed": "8",
+        "id": "89",
+        "best_with": [
+            {
+                "hero_id": 14,
+                "win_ratio": 0.3333333333333333
+            },
+            {
+                "hero_id": 5,
+                "win_ratio": 1.0
+            },
+            {
+                "hero_id": 39,
+                "win_ratio": 1.0
+            }
+        ],
+        "localName": "Naga Siren"
+    },
+    "90": {
+        "win_ratio": "0.41935483870967744",
+        "gamesPlayed": "31",
+        "id": "90",
+        "best_with": [
+            {
+                "hero_id": 14,
+                "win_ratio": 0.2857142857142857
+            },
+            {
+                "hero_id": 22,
+                "win_ratio": 0.5
+            },
+            {
+                "hero_id": 74,
+                "win_ratio": 0.2727272727272727
+            }
+        ],
+        "localName": "Keeper of the Light"
+    },
+    "91": {
+        "win_ratio": "0.38095238095238093",
+        "gamesPlayed": "21",
+        "id": "91",
+        "best_with": [
+            {
+                "hero_id": 18,
+                "win_ratio": 0.6
+            },
+            {
+                "hero_id": 84,
+                "win_ratio": 0.2857142857142857
+            },
+            {
+                "hero_id": 41,
+                "win_ratio": 0.5
+            }
+        ],
+        "localName": "Io"
+    },
+    "92": {
+        "win_ratio": "0.8333333333333334",
+        "gamesPlayed": "12",
+        "id": "92",
+        "best_with": [
+            {
+                "hero_id": 8,
+                "win_ratio": 0.6
+            },
+            {
+                "hero_id": 42,
+                "win_ratio": 1.0
+            },
+            {
+                "hero_id": 63,
+                "win_ratio": 1.0
+            }
+        ],
+        "localName": "Visage"
+    },
+    "93": {
+        "win_ratio": "0.37755102040816324",
+        "gamesPlayed": "98",
+        "id": "93",
+        "best_with": [
+            {
+                "hero_id": 14,
+                "win_ratio": 0.19642857142857142
+            },
+            {
+                "hero_id": 11,
+                "win_ratio": 0.2
+            },
+            {
+                "hero_id": 74,
+                "win_ratio": 0.2608695652173913
+            }
+        ],
+        "localName": "Slark"
+    },
+    "94": {
+        "win_ratio": "0.46551724137931033",
+        "gamesPlayed": "116",
+        "id": "94",
+        "best_with": [
+            {
+                "hero_id": 14,
+                "win_ratio": 0.2835820895522388
+            },
+            {
+                "hero_id": 11,
+                "win_ratio": 0.25
+            },
+            {
+                "hero_id": 27,
+                "win_ratio": 0.2916666666666667
+            }
+        ],
+        "localName": "Medusa"
+    },
+    "95": {
+        "win_ratio": "0.45614035087719296",
+        "gamesPlayed": "57",
+        "id": "95",
+        "best_with": [
+            {
+                "hero_id": 14,
+                "win_ratio": 0.27586206896551724
+            },
+            {
+                "hero_id": 9,
+                "win_ratio": 0.45454545454545453
+            },
+            {
+                "hero_id": 74,
+                "win_ratio": 0.2631578947368421
+            }
+        ],
+        "localName": "Troll Warlord"
+    },
+    "96": {
+        "win_ratio": "0.5609756097560976",
+        "gamesPlayed": "41",
+        "id": "96",
+        "best_with": [
+            {
+                "hero_id": 11,
+                "win_ratio": 0.46153846153846156
+            },
+            {
+                "hero_id": 14,
+                "win_ratio": 0.17391304347826086
+            },
+            {
+                "hero_id": 26,
+                "win_ratio": 0.5
+            }
+        ],
+        "localName": "Centaur Warrunner"
+    },
+    "97": {
+        "win_ratio": "0.5070422535211268",
+        "gamesPlayed": "71",
+        "id": "97",
+        "best_with": [
+            {
+                "hero_id": 8,
+                "win_ratio": 0.5909090909090909
+            },
+            {
+                "hero_id": 14,
+                "win_ratio": 0.2222222222222222
+            },
+            {
+                "hero_id": 11,
+                "win_ratio": 0.15625
+            }
+        ],
+        "localName": "Magnus"
+    },
+    "98": {
+        "win_ratio": "0.4225352112676056",
+        "gamesPlayed": "71",
+        "id": "98",
+        "best_with": [
+            {
+                "hero_id": 14,
+                "win_ratio": 0.17142857142857143
+            },
+            {
+                "hero_id": 26,
+                "win_ratio": 0.45454545454545453
+            },
+            {
+                "hero_id": 74,
+                "win_ratio": 0.25
+            }
+        ],
+        "localName": "Timbersaw"
+    },
+    "99": {
+        "win_ratio": "0.5181818181818182",
+        "gamesPlayed": "110",
+        "id": "99",
+        "best_with": [
+            {
+                "hero_id": 14,
+                "win_ratio": 0.2545454545454545
+            },
+            {
+                "hero_id": 11,
+                "win_ratio": 0.3157894736842105
+            },
+            {
+                "hero_id": 74,
+                "win_ratio": 0.2631578947368421
+            }
+        ],
+        "localName": "Bristleback"
+    },
+    "100": {
+        "win_ratio": "0.5365853658536586",
+        "gamesPlayed": "82",
+        "id": "100",
+        "best_with": [
+            {
+                "hero_id": 14,
+                "win_ratio": 0.25
+            },
+            {
+                "hero_id": 74,
+                "win_ratio": 0.47058823529411764
+            },
+            {
+                "hero_id": 11,
+                "win_ratio": 0.2
+            }
+        ],
+        "localName": "Tusk"
+    },
+    "101": {
+        "win_ratio": "0.5833333333333334",
+        "gamesPlayed": "144",
+        "id": "101",
+        "best_with": [
+            {
+                "hero_id": 14,
+                "win_ratio": 0.33783783783783783
+            },
+            {
+                "hero_id": 8,
+                "win_ratio": 0.3902439024390244
+            },
+            {
+                "hero_id": 74,
+                "win_ratio": 0.2127659574468085
+            }
+        ],
+        "localName": "Skywrath Mage"
+    },
+    "102": {
+        "win_ratio": "0.56",
+        "gamesPlayed": "25",
+        "id": "102",
+        "best_with": [
+            {
+                "hero_id": 14,
+                "win_ratio": 0.26666666666666666
+            },
+            {
+                "hero_id": 22,
+                "win_ratio": 0.6666666666666666
+            },
+            {
+                "hero_id": 27,
+                "win_ratio": 0.5
+            }
+        ],
+        "localName": "Abaddon"
+    },
+    "103": {
+        "win_ratio": "0.4",
+        "gamesPlayed": "10",
+        "id": "103",
+        "best_with": [
+            {
+                "hero_id": 14,
+                "win_ratio": 0.42857142857142855
+            },
+            {
+                "hero_id": 11,
+                "win_ratio": 0.6666666666666666
+            },
+            {
+                "hero_id": 98,
+                "win_ratio": 0.5
+            }
+        ],
+        "localName": "Elder Titan"
+    },
+    "104": {
+        "win_ratio": "0.45925925925925926",
+        "gamesPlayed": "135",
+        "id": "104",
+        "best_with": [
+            {
+                "hero_id": 14,
+                "win_ratio": 0.2289156626506024
+            },
+            {
+                "hero_id": 74,
+                "win_ratio": 0.27906976744186046
+            },
+            {
+                "hero_id": 11,
+                "win_ratio": 0.18181818181818182
+            }
+        ],
+        "localName": "Legion Commander"
+    },
+    "105": {
+        "win_ratio": "0.45614035087719296",
+        "gamesPlayed": "57",
+        "id": "105",
+        "best_with": [
+            {
+                "hero_id": 14,
+                "win_ratio": 0.30303030303030304
+            },
+            {
+                "hero_id": 11,
+                "win_ratio": 0.23076923076923078
+            },
+            {
+                "hero_id": 74,
+                "win_ratio": 0.2777777777777778
+            }
+        ],
+        "localName": "Techies"
+    },
+    "106": {
+        "win_ratio": "0.4222222222222222",
+        "gamesPlayed": "45",
+        "id": "106",
+        "best_with": [
+            {
+                "hero_id": 14,
+                "win_ratio": 0.1724137931034483
+            },
+            {
+                "hero_id": 1,
+                "win_ratio": 0.3
+            },
+            {
+                "hero_id": 9,
+                "win_ratio": 0.375
+            }
+        ],
+        "localName": "Ember Spirit"
+    },
+    "107": {
+        "win_ratio": "0.46808510638297873",
+        "gamesPlayed": "47",
+        "id": "107",
+        "best_with": [
+            {
+                "hero_id": 11,
+                "win_ratio": 0.2608695652173913
+            },
+            {
+                "hero_id": 74,
+                "win_ratio": 0.4
+            },
+            {
+                "hero_id": 21,
+                "win_ratio": 1.0
+            }
+        ],
+        "localName": "Earth Spirit"
+    },
+    "108": {
+        "win_ratio": "0.625",
+        "gamesPlayed": "40",
+        "id": "108",
+        "best_with": [
+            {
+                "hero_id": 14,
+                "win_ratio": 0.43478260869565216
+            },
+            {
+                "hero_id": 9,
+                "win_ratio": 0.5555555555555556
+            },
+            {
+                "hero_id": 27,
+                "win_ratio": 0.4444444444444444
+            }
+        ],
+        "localName": "Underlord"
+    },
+    "109": {
+        "win_ratio": "0.5365853658536586",
+        "gamesPlayed": "41",
+        "id": "109",
+        "best_with": [
+            {
+                "hero_id": 14,
+                "win_ratio": 0.45454545454545453
+            },
+            {
+                "hero_id": 49,
+                "win_ratio": 0.5
+            },
+            {
+                "hero_id": 11,
+                "win_ratio": 0.1875
+            }
+        ],
+        "localName": "Terrorblade"
+    },
+    "110": {
+        "win_ratio": "0.6458333333333334",
+        "gamesPlayed": "48",
+        "id": "110",
+        "best_with": [
+            {
+                "hero_id": 14,
+                "win_ratio": 0.3
+            },
+            {
+                "hero_id": 8,
+                "win_ratio": 0.5
+            },
+            {
+                "hero_id": 11,
+                "win_ratio": 0.3
+            }
+        ],
+        "localName": "Phoenix"
+    },
+    "111": {
+        "win_ratio": "0.35294117647058826",
+        "gamesPlayed": "17",
+        "id": "111",
+        "best_with": [
+            {
+                "hero_id": 8,
+                "win_ratio": 0.3333333333333333
+            },
+            {
+                "hero_id": 70,
+                "win_ratio": 0.5
+            },
+            {
+                "hero_id": 74,
+                "win_ratio": 0.3333333333333333
+            }
+        ],
+        "localName": "Oracle"
+    },
+    "112": {
+        "win_ratio": "0.4222222222222222",
+        "gamesPlayed": "45",
+        "id": "112",
+        "best_with": [
+            {
+                "hero_id": 69,
+                "win_ratio": 0.625
+            },
+            {
+                "hero_id": 8,
+                "win_ratio": 0.23529411764705882
+            },
+            {
+                "hero_id": 14,
+                "win_ratio": 0.19047619047619047
+            }
+        ],
+        "localName": "Winter Wyvern"
+    },
+    "113": {
+        "win_ratio": "0.48",
+        "gamesPlayed": "25",
+        "id": "113",
+        "best_with": [
+            {
+                "hero_id": 14,
+                "win_ratio": 0.21428571428571427
+            },
+            {
+                "hero_id": 42,
+                "win_ratio": 0.42857142857142855
+            },
+            {
+                "hero_id": 6,
+                "win_ratio": 1.0
+            }
+        ],
+        "localName": "Arc Warden"
+    },
+    "114": {
+        "win_ratio": "0.37",
+        "gamesPlayed": "100",
+        "id": "114",
+        "best_with": [
+            {
+                "hero_id": 11,
+                "win_ratio": 0.23809523809523808
+            },
+            {
+                "hero_id": 27,
+                "win_ratio": 0.3684210526315789
+            },
+            {
+                "hero_id": 14,
+                "win_ratio": 0.0967741935483871
+            }
+        ],
+        "localName": "Monkey King"
+    },
+    "119": {
+        "win_ratio": "0.5714285714285714",
+        "gamesPlayed": "91",
+        "id": "119",
+        "best_with": [
+            {
+                "hero_id": 8,
+                "win_ratio": 0.3225806451612903
+            },
+            {
+                "hero_id": 14,
+                "win_ratio": 0.23809523809523808
+            },
+            {
+                "hero_id": 11,
+                "win_ratio": 0.21621621621621623
+            }
+        ],
+        "localName": "Dark Willow"
+    },
+    "120": {
+        "win_ratio": "0.4188034188034188",
+        "gamesPlayed": "117",
+        "id": "120",
+        "best_with": [
+            {
+                "hero_id": 74,
+                "win_ratio": 0.25
+            },
+            {
+                "hero_id": 11,
+                "win_ratio": 0.17391304347826086
+            },
+            {
+                "hero_id": 14,
+                "win_ratio": 0.11864406779661017
+            }
+        ],
+        "localName": "Pangolier"
+    }
+}

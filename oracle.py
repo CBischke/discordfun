@@ -19,8 +19,9 @@ async def on_ready():
 
 @client.event
 async def on_message(message):
-    if message.content.startswith('-oracle'):
-        cmd = message.content.split('-oracle')[1].split()
+
+    if message.content.startswith('-oracle') or message.content.startswith(-o):
+        cmd = message.content.split()
         if cmd[0] == "matchup":
             if not cmd[1]:
                 await client.send_message(message.channel, "please provide localname")

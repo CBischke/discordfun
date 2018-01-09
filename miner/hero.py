@@ -50,7 +50,9 @@ class Hero:
             listOfWonTheMost.append(
                     {
                     'hero_id': k, 
-                    'win_ratio': v/self.gamesPlayedWith[k]
+                    'win_ratio': v/self.gamesPlayedWith[k],
+                    'games_won': self.wonWith[k],
+                    'games_played': self.gamesPlayedWith[k]
                     }
                 )
         

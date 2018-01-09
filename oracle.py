@@ -10,6 +10,7 @@ client = discord.Client()
 
 hero = Heroes()
 
+
 @client.event
 async def on_ready():
     print('Logged in as')
@@ -19,15 +20,25 @@ async def on_ready():
 
 @client.event
 async def on_message(message):
-    if message.content.startswith('-oracle'):
-        cmd = message.content.split('-oracle')[1].split()
-        if cmd[0] == "matchup":
-            if not cmd[1]:
-                await client.send_message(message.channel, "please provide localname")
-            localname = cmd[1]
+    cmd = message.content.split()
+    if cmd[0] == "-oracle" or cmd[0] == "-o":
+        action = cmd[1]
+        subject = ""
+        for i in range(2,len(cmd)):
+            subject = subject + cmd[i] + " "
+        subject = subject.strip()
+        print("|" + action + "|")
+        print("|" + subject + "|")
+        if action == "help":
+            helpString = "-oracle[-o]\n"
+            helpString = helpString + "    " + "matchup[mu] {hero-name}: returns heroes best against and worst against {hero-name}\n"
+            helpString = helpString + "    " + "bestwith[bw] {hero-name}: returns heroes that are best with {hero-name}\n"
+            await client.send_message(message.channel, helpString)
+        elif action == "matchup" or action == "mu":
+            localname = subject
             await client.send_message(message.channel, str(hero.determineMatchUp(localname)))
-        elif cmd[0] == "bestwith":
-            localname = cmd[1]
+        elif action == "bestwith" or action == "bw":
+            localname = subject
             await client.send_message(message.channel, str(hero.findBestWith(localname)))
 
 client.run(token)

@@ -35,7 +35,7 @@ class Connection:
         return r.json()
 
     def getLatestMatches(self):
-        q = "select+%2A+from+public_matches+where+avg_mmr+%3E+3000+and+game_mode+%3D+22+order+by+start_time+desc+limit+1000"
+        q = "select+%2A+from+public_matches+where+avg_mmr+%3E+3000+and+game_mode+%3D+22+order+by+start_time+desc+limit+5000"
         return self.__explorer(q)
 
     def __explorer(self, q):

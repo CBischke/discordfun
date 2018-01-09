@@ -61,7 +61,9 @@ class Heroes:
         for hero in worksBestWith:
             name = self.conn.idToLocalName(hero['hero_id'])
             ratio = hero['win_ratio']
-            finalString = finalString + "    " + name + ": " + str(ratio) + "\n"
+            games_played = hero['games_played']
+            games_won = hero['games_won']
+            finalString = finalString + "    " + name + ": " + str(ratio) + "(" + str(games_won) + "/" + str(games_played) + ")" + "\n"
 
         return finalString
 

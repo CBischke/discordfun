@@ -4,6 +4,7 @@ sys.path.insert(0, '../')
 import time
 import json
 
+from tqdm import tqdm
 from opendota.connection import Connection
 from hero import Hero
 
@@ -13,10 +14,16 @@ matches = con.getLatestMatches()
 
 dictOfHeros= {}
 
-for row in matches:
-    matchid = row['match_id']
+for i in tqdm(range(len(matches))):
+    matchid = matches[i]['match_id']
     time.sleep(.33)
-    match = con.getMatch(matchid)
+    
+    try:
+        match = con.getMatch(matchid)
+    except:
+        print("problem with: " + str(matchid))
+        continue
+
     players = match['players']
 
     for player in players:
@@ -41,14 +48,6 @@ for row in matches:
             otherPlayerWin = p['win']
             if otherPlayerWin == win and win == 1:
                 dictOfHeros[heroid].addWonWith(otherheroID)
-
-
-"""for key in dictOfHeros.keys():
-    localname = con.idToLocalName(key)
-    print(localname + ": " + str(dictOfHeros[key].getGameCount()) + " | " + str(dictOfHeros[key].getWinRatio()))
-    print("   won most with:")
-    for hero in dictOfHeros[key].getWonWithMost():
-        print("    " + con.idToLocalName(hero[0]) + ":" + str(hero[1]))"""
 
 finalDict = {}
 for heroid, hero in dictOfHeros.items():

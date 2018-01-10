@@ -31,14 +31,13 @@ async def on_message(message):
         print("|" + subject + "|")
         if action == "help":
             helpString = "-oracle[-o]\n"
-            helpString = helpString + "    " + "matchup[mu] {hero-name}: returns heroes best against and worst against {hero-name}\n"
-            helpString = helpString + "    " + "bestwith[bw] {hero-name}: returns heroes that are best with {hero-name}\n"
+            helpString = helpString + "    " + "matchup[mu] {hero-name}: returns heroes best against and worst against and best with relative to {hero-name}\n"
             await client.send_message(message.channel, helpString)
         elif action == "matchup" or action == "mu":
             localname = subject
             await client.send_message(message.channel, str(hero.determineMatchUp(localname)))
-        elif action == "bestwith" or action == "bw":
-            localname = subject
-            await client.send_message(message.channel, str(hero.findBestWith(localname)))
+        #elif action == "bestwith" or action == "bw":
+        #    localname = subject
+        #    await client.send_message(message.channel, str(hero.findBestWith(localname)))
 
 client.run(token)

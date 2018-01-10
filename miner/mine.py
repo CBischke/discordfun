@@ -70,7 +70,7 @@ for heroid, hero in dictOfHeros.items():
     heroDict['localName'] = str(con.idToLocalName(heroid))
     heroDict['id'] = str(heroid)
     heroDict['best_with'] = hero.getWonWithMost()
-    heroDict['best_agaainst'] = hero.getBestAgainst()
+    heroDict['best_against'] = hero.getBestAgainst()
     heroDict['worst_against'] = hero.getWorstAgainst()
     finalDict[heroid] = heroDict
 

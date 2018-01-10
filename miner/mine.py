@@ -15,39 +15,52 @@ matches = con.getLatestMatches()
 dictOfHeros= {}
 
 for i in tqdm(range(len(matches))):
-    matchid = matches[i]['match_id']
-    time.sleep(.33)
-    
     try:
+        matchid = matches[i]['match_id']
+        time.sleep(.33)
+        
         match = con.getMatch(matchid)
+
+        players = match['players']
+
+        for player in players:
+            heroid = player['hero_id']
+            win = player['win']
+
+            if heroid not in dictOfHeros.keys():
+                dictOfHeros[heroid] = Hero(heroid)
+
+            hero = dictOfHeros[heroid]
+            hero.addGamePlayed()
+
+            if win == 1:
+                hero.addGameWon()
+
+            for p in players:
+                otherheroID = p['hero_id']
+                if otherheroID == heroid:
+                    continue
+
+                otherPlayerWin = p['win']
+
+                #same team
+                if otherPlayerWin == win:
+                    hero.addGamesPlayedWith(otherheroID)
+                    #win
+                    if win == 1:
+                        hero.addWonWith(otherheroID)
+                #other team
+                elif otherPlayerWin != win:
+                    hero.addGamesPlayedAgainst(otherheroID)
+                    #loss
+                    if win == 0:
+                        hero.addLostAgainst(otherheroID)
+                    else:
+                        hero.addWonAgainst(otherheroID)
     except:
-        print("problem with: " + str(matchid))
+        print("error")
         continue
-
-    players = match['players']
-
-    for player in players:
-        heroid = player['hero_id']
-        win = player['win']
-
-        if heroid not in dictOfHeros.keys():
-            dictOfHeros[heroid] = Hero(heroid)
-
-        dictOfHeros[heroid].addGamePlayed()
-
-        if win == 1:
-            dictOfHeros[heroid].addGameWon()
-
-        for p in players:
-            otherheroID = p['hero_id']
-            if otherheroID == heroid:
-                continue
-
-            dictOfHeros[heroid].addGamesPlayedWith(otherheroID)
-
-            otherPlayerWin = p['win']
-            if otherPlayerWin == win and win == 1:
-                dictOfHeros[heroid].addWonWith(otherheroID)
+                    
 
 finalDict = {}
 for heroid, hero in dictOfHeros.items():
@@ -57,6 +70,8 @@ for heroid, hero in dictOfHeros.items():
     heroDict['localName'] = str(con.idToLocalName(heroid))
     heroDict['id'] = str(heroid)
     heroDict['best_with'] = hero.getWonWithMost()
+    heroDict['best_agaainst'] = hero.getBestAgainst()
+    heroDict['worst_against'] = hero.getWorstAgainst()
     finalDict[heroid] = heroDict
 
 myFile = open('data.json', 'w')
